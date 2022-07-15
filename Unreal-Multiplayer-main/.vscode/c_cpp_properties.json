@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "UnrealMultiplayerEditor Editor Win64 Development (UnrealMultiplayer)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Administrator\\Desktop\\Multiplayer FPS Game\\UnrealMultiplayer\\.vscode\\compileCommands_UnrealMultiplayer.json",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
