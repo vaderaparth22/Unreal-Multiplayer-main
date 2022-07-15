@@ -1,3 +1,3 @@
-# Unreal Multiplayer 
- Unreal Multiplayer Game 
-AAA Standard shaders for the Snow with Different material Combination. Also Created Different Shaders for Hologram Effect, Ultra realistic sea water material ,Blending between Different textures For landscape and Terrain Creation
+# Shoot'em Up
+The Snow in the game is rendered using AAA-standard shaders with various material combinations.
+Additionally, I have developed various shaders for the hologram effect, an incredibly realistic sea water material, and blending between various textures.
